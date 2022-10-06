@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="form_name">Edit User</string>
+    <string name="aux_item_name">Junior</string>
+    <string name="aux_item_password">123</string>
+    <string name="aux_item_type">Test</string>
+    <string name="request_name">User:</string>
+    <string name="hint_name">Jhon</string>
+    <string name="request_password">Password:</string>
+    <string name="request_password_repeated">Repeat Password:</string>
+    <string name="request_type">Type:</string>
+    <string name="check_administrador">Administrator</string>
+    <string name="check_usuario">User</string>
+    <!-- <string name="hint_last_name">Doe</string>-->
+    <string name="btn_save">Save</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial App</string>
+    <string name="form_name">Editar Usuario</string>
+    <string name="aux_item_name">Junior</string>
+    <string name="aux_item_password">123</string>
+    <string name="aux_item_type">Prueba</string>
+    <string name="request_name">Usuario:</string>
+    <string name="hint_name">Junior</string>
+    <string name="request_password">Contraseña:</string>
+    <string name="request_password_repeated">Repita la contraseña:</string>
+    <string name="request_type">Tipo:</string>
+    <string name="check_administrador">Administrador</string>
+    <string name="check_usuario">Usuario</string>
+    <!-- <string name="hint_last_name">Prueba</string> -->
+    <string name="btn_save">Guardar</string>
+</resources>

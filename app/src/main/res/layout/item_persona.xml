@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="3dp"
+    android:orientation="horizontal">
+
+    <!-- <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_margin="5dp"/> -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aux_item_name"
+            android:id="@+id/tvNombre"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aux_item_type"
+            android:id="@+id/tvTipo"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aux_item_password"
+            android:id="@+id/tvContrasenia"
+            android:visibility="invisible"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="right|center_vertical"
+        android:layout_marginLeft="3dp">
+
+
+        <ImageButton
+            android:id="@+id/btnEditar"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_red_dark"
+            android:src="@android:drawable/ic_menu_view"
+            />
+
+        <!-- <ImageButton
+            android:id="@+id/btnEliminar"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@android:color/holo_red_dark"
+            android:src="@android:drawable/ic_delete"
+            /> -->
+
+    </LinearLayout>
+
+</LinearLayout>

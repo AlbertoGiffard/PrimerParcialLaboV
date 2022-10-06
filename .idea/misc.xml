@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alber/OneDrive/Documentos/UTN/5to Cuatrimestre/Laboratorio V/TestingClase/app/src/main/res/layout-land/activity_formulario.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/alber/OneDrive/Documentos/UTN/5to Cuatrimestre/Laboratorio V/TestingClase/app/src/main/res/layout-land/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/alber/OneDrive/Documentos/UTN/5to Cuatrimestre/Laboratorio V/TestingClase/app/src/main/res/layout/activity_formulario.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/alber/OneDrive/Documentos/UTN/5to Cuatrimestre/Laboratorio V/TestingClase/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/alber/OneDrive/Documentos/UTN/5to Cuatrimestre/Laboratorio V/TestingClase/app/src/main/res/layout/item_persona.xml" value="0.3625" />
+        <entry key="..\:/Users/alber/OneDrive/Documentos/UTN/5to Cuatrimestre/Laboratorio V/TestingClase/app/src/main/res/menu/principal.xml" value="0.296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
